@@ -1,0 +1,6 @@
+--- # Static image files which may be saved in various pieces
+intro_rauser:
+  files : [ rauser1.pcc, rauser2.pcc, rauser3.pcc ] 
+
+intro_kelloggs_splash:
+  files : [ kell256a.pcc, kell256b.pcc, kell256c.pcc, kell256d.pcc ]
